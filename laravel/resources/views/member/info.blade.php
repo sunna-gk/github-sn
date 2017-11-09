@@ -1,0 +1,3 @@
+member mobile blade
+
+{{$name}}
